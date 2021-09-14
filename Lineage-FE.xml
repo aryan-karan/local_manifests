@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="aryan"
+		fetch="https://github.com/aryan-karan" />
+	
+	<!-- Trees -->
+	<project path="device/xiaomi/onclite" remote="aryan" name="device_xiaomi_onclite" revision="Lineage-FE-18.1" />
+	<project path="kernel/xiaomi/onclite" remote="aryan" name="kernel_xiaomi_onclite" revision="los-FE" />
+	<project path="vendor/xiaomi/onclite" remote="aryan" name="vendor_xiaomi_onclite" revision="lineage-18.1" />
+	
+</manifest>
