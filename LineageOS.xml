@@ -5,7 +5,7 @@
 	        revision="los-14.1" />
 	
 	<!-- Trees -->
-	<project path="device/intex/Cloud_Q11" remote="aryan" name="android_device_intex_Cloud_Q11" />
-	<project path="vendor/intex/Cloud_Q11" remote="aryan" name="android_vendor_intex_Cloud_Q11" />
+	<project path="device/intex/Cloud_Q11" remote="aryan" name="android_device_intex_Cloud_Q11" revision="los-14.1" />
+	<project path="vendor/intex/Cloud_Q11" remote="aryan" name="android_vendor_intex_Cloud_Q11" revision="los-14.1"/>
 	
 </manifest>
