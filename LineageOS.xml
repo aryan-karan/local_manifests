@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<remote name="aryan"
-		fetch="https://github.com/aryankaran" />
+		fetch="https://github.com/aryan-karan" />
+	        revision="los-14.1" />
 	
 	<!-- Trees -->
-	<project path="device/xiaomi/onclite" remote="aryan" name="device_xiaomi_onclite-" revision="los-19" />
-	<project path="kernel/xiaomi/onclite" remote="aryan" name="android_kernel_xiaomi_onclite" revision="havoc" />
-	<project path="vendor/xiaomi/onclite" remote="aryan" name="vendor_xiaomi_onclite" revision="lineage-18.1" />
+	<project path="device/intex/Cloud_Q11" remote="aryan" name="android_device_intex_Cloud_Q11" />
+	<project path="vendor/intex/Cloud_Q11" remote="aryan" name="android_vendor_intex_Cloud_Q11" />
 	
 </manifest>
