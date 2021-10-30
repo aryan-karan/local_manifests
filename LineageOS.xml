@@ -9,5 +9,5 @@
 	<project path="vendor/xiaomi/onclite" remote="aryan" name="vendor_xiaomi_onclite" revision="lineage-18.1" />
 	
 	<!-- Legacy-um sepolicy -->
-	<project path="device/qcom/sepolicy-legacy-um" name="LineageOS/android_device_qcom_sepolicy" groups="qcom,pdk-qcom" revision="lineage-18.1-legacy-um" />
+	<project path="device/qcom/sepolicy-legacy-um" name="A12-aryankaran-materials/android_device_qcom_sepolicy-LineageOS" groups="qcom,pdk-qcom" revision="lineage-18.1-legacy-um" />
 </manifest>
