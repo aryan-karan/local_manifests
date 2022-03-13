@@ -12,7 +12,7 @@
            revision="eleven" />
 
 <!-- Kernel Trees -->
-    <project path="kernel/xiaomi/onclite"      remote="me"      name="kernel_xiaomi_onclite"   revision="havocd"/>
+    <project path="kernel/xiaomi/onclite"      remote="havocd"      name="kernel_xiaomi_onclite"/>
 
 <!-- Device Trees -->
     <project path="device/xiaomi/onclite"      remote="havocd"  name="android_device_xiaomi_onclite"/>
