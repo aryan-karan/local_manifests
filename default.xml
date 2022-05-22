@@ -18,7 +18,7 @@
     <project path="kernel/xiaomi/onclite"      remote="ak"      name="kernel_xiaomi_onclite"/>
 
 <!-- Device Trees -->
-    <project path="device/xiaomi/onclite"      remote="me"  name="onclite-12" revision="lineage-19.1"/>
+    <project path="device/xiaomi/onclite"      remote="me"  name="onclite-12" revision="EvoX"/>
 
 <!-- Vendor Trees -->
    <!-- <project path="vendor/xiaomi/onclite"       remote="dhina"      name="android_vendor_xiaomi_onclite"/> -->
