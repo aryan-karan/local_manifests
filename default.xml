@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="me"
-           fetch="ssh://git@github.com/aryankaran" />
+           fetch="https://github.com/aryankaran" />
 
   <remote name="dhina"
            fetch="https://github.com/Dhina17"
