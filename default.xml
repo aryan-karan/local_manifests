@@ -4,12 +4,12 @@
            fetch="https://github.com/aryankaran" />
 
   <remote name="hub"
-           fetch="https://github.com/aryankaran" />
-
-<!-- Kernel Trees -->
-    <project path="kernel/xiaomi/onclite"      remote="me"      name="kernel_xiaomi_onclite" revision="orangefox" />
+           fetch="https://github.com" />
 
 <!-- Device Trees -->
     <project path="device/xiaomi/onclite"      remote="hub"  name="aryan-karan/orangefox-dt-onclite" revision="fox_9.0"/>
+
+<!-- Kernel Trees -->
+    <project path="kernel/xiaomi/onclite"      remote="me"      name="kernel_xiaomi_onclite" revision="orangefox" />
 
 </manifest>
