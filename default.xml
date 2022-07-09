@@ -3,25 +3,13 @@
   <remote name="me"
            fetch="https://github.com/aryankaran" />
 
-  <remote name="dhina"
-           fetch="https://github.com/Dhina17"
-           revision="refs/heads/lineage-18.1" />
-
-  <remote name="blaze" fetch="https://github.com/ProjectBlaze-Devices" revision="refs/heads/12.1" />
-  <remote name="ak" fetch="https://github.com/afterallafk" revision="refs/heads/12.1" />
-
-  <remote name="LineageOS"
-	   fetch="https://github.com/LineageOS"
-           revision="refs/heads/lineage-19.1" />
+  <remote name="hub"
+           fetch="https://github.com/aryankaran" />
 
 <!-- Kernel Trees -->
-    <project path="kernel/xiaomi/onclite"      remote="ak"      name="kernel_xiaomi_onclite"/>
+    <project path="kernel/xiaomi/onclite"      remote="ne"      name="kernel_xiaomi_onclite" revision=orangefox />
 
 <!-- Device Trees -->
-    <project path="device/xiaomi/onclite"      remote="me"  name="onclite-12" revision="EvoX"/>
-
-<!-- Vendor Trees -->
-   <!-- <project path="vendor/xiaomi/onclite"       remote="dhina"      name="android_vendor_xiaomi_onclite"/> -->
-   <project path="vendor/xiaomi/onclite"       remote="blaze"      name="vendor_xiaomi_onclite" />
+    <project path="device/xiaomi/onclite"      remote="hub"  name="aryan-karan/orangefox-dt-onclite" revision="fox_9.0"/>
 
 </manifest>
