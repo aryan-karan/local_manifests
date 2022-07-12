@@ -20,4 +20,6 @@
    <!-- <project path="vendor/xiaomi/onclite"       remote="dhina"      name="android_vendor_xiaomi_onclite"/> -->
    <project path="vendor/xiaomi/onclite"       remote="blaze"      name="vendor_xiaomi_onclite" />
 
+<!-- remove face unlock as it's private -->
+    <remove-project name="android_external_faceunlock" >
 </manifest>
