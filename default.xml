@@ -10,10 +10,6 @@
   <remote name="blaze" fetch="https://github.com/ProjectBlaze-Devices" revision="refs/heads/12.1" />
   <remote name="ak" fetch="https://github.com/afterallafk" revision="refs/heads/12.1" />
 
-  <remote name="LineageOS"
-	   fetch="https://github.com/LineageOS"
-           revision="refs/heads/lineage-19.1" />
-
 <!-- Kernel Trees -->
     <project path="kernel/xiaomi/onclite"      remote="ak"      name="kernel_xiaomi_onclite"/>
 
