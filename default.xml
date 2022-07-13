@@ -21,6 +21,6 @@
    <project path="vendor/xiaomi/onclite"       remote="blaze"      name="vendor_xiaomi_onclite" />
   
   <remove-project name="packages_apps_GmsCompat" />
-  <project path="packages/apps/GmsCompat" name="packages_apps_GmsCompat" remote="me" />
+  <project path="packages/apps/GmsCompat" name="packages_apps_GmsCompat" remote="me" revision="spark" />
 
 </manifest>
